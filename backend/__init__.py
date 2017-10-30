@@ -14,6 +14,6 @@ def process_user_query(query_string):
         if i.istitle():
             greetings.append(f'Hi {i}!')
     greetings = set(greetings)
-    return greetings
+    return list(greetings)
 
-#print(process_user_query("Alex Alex went to Mike dinner with Animesh"))
+#rint(process_user_query("Alex Alex went to Mike dinner with Animesh"))
