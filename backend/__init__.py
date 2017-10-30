@@ -13,6 +13,7 @@ def process_user_query(query_string):
     for i in names:
         if i.istitle():
             greetings.append(f'Hi {i}!')
+    greetings = set(greetings)
     return greetings
 
 #print(process_user_query("Alex Alex went to Mike dinner with Animesh"))
