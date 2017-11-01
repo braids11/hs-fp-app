@@ -1,0 +1,853 @@
+﻿System Information report written at: 11/01/17 13:33:35
+System Name: RWG16169
+[Components]
+
+
+
+[Multimedia]
+
+
+
+[Audio Codecs]
+
+CODEC	Manufacturer	Description	Status	File	Version	Size	Creation Date	
+c:\windows\system32\msg711.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSG711.ACM	10.0.14393.0	24.76 KB (25,352 bytes)	16/07/2016 12:42	
+c:\windows\system32\l3codeca.acm	Fraunhofer Institut Integrierte Schaltungen IIS	Fraunhofer IIS MPEG Layer-3 Codec	OK	C:\WINDOWS\system32\L3CODECA.ACM	1.9.0.401	85.00 KB (87,040 bytes)	16/07/2016 12:42	
+c:\windows\system32\msadp32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSADP32.ACM	10.0.14393.0	33.83 KB (34,640 bytes)	16/07/2016 12:42	
+c:\windows\system32\imaadp32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\IMAADP32.ACM	10.0.14393.0	34.86 KB (35,696 bytes)	16/07/2016 12:42	
+c:\windows\system32\msgsm32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSGSM32.ACM	10.0.14393.0	41.93 KB (42,936 bytes)	16/07/2016 12:42	
+
+[Video Codecs]
+
+CODEC	Manufacturer	Description	Status	File	Version	Size	Creation Date	
+c:\windows\system32\iyuv_32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\IYUV_32.DLL	10.0.14393.0	53.00 KB (54,272 bytes)	16/07/2016 12:42	
+c:\windows\system32\tsbyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\TSBYUV.DLL	10.0.14393.0	16.50 KB (16,896 bytes)	16/07/2016 12:42	
+c:\windows\system32\msyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSYUV.DLL	10.0.14393.0	27.00 KB (27,648 bytes)	16/07/2016 12:42	
+c:\windows\system32\msrle32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSRLE32.DLL	10.0.14393.0	17.50 KB (17,920 bytes)	16/07/2016 12:42	
+c:\windows\system32\msvidc32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSVIDC32.DLL	10.0.14393.0	38.00 KB (38,912 bytes)	16/07/2016 12:42	
+
+[CD-ROM]
+
+Item	Value	
+
+[Sound Device]
+
+Item	Value	
+Name	Intel(R) Display Audio	
+Manufacturer	Intel(R) Corporation	
+Status	OK	
+PNP Device ID	HDAUDIO\FUNC_01&VEN_8086&DEV_2809&SUBSYS_80860101&REV_1000\4&11C2C11B&0&0201	
+Driver	c:\windows\system32\drivers\intcdaud.sys (10.22.1.97, 801.52 KB (820,752 bytes), 05/12/2016 13:31)	
+		
+Name	Realtek High Definition Audio	
+Manufacturer	Realtek	
+Status	OK	
+PNP Device ID	HDAUDIO\FUNC_01&VEN_10EC&DEV_0293&SUBSYS_102806DB&REV_1000\4&11C2C11B&0&0001	
+Driver	c:\windows\system32\drivers\rtdvhd64.sys (6.0.1.6085, 2.47 MB (2,593,536 bytes), 08/12/2015 08:34)	
+
+[Display]
+
+Item	Value	
+Name	@oem181.inf,%dwmirrordrv% 64-bit;DameWare Development Mirror Driver 64-bit	
+PNP Device ID	ROOT\DISPLAY\0000	
+Adapter Type	Not Available, @oem181.inf,%dameware% 64;DameWare Development 64 compatible	
+Adapter Description	@oem181.inf,%dwmirrordrv% 64-bit;DameWare Development Mirror Driver 64-bit	
+Adapter RAM	Not Available	
+Installed Drivers	Not Available	
+Driver Version	1.1.0.0	
+INF File	oem181.inf (DwMirror section)	
+Color Planes	Not Available	
+Color Table Entries	Not Available	
+Resolution	Not Available	
+Bits/Pixel	Not Available	
+Driver	c:\windows\system32\drivers\damewaremini.sys (1.1.0.0, 5.50 KB (5,632 bytes), 14/03/2008 14:00)	
+		
+Name	Intel(R) HD Graphics 520	
+PNP Device ID	PCI\VEN_8086&DEV_1916&SUBSYS_06DB1028&REV_07\3&11583659&0&10	
+Adapter Type	Intel(R) HD Graphics Family, Intel Corporation compatible	
+Adapter Description	Intel(R) HD Graphics 520	
+Adapter RAM	1.00 GB (1,073,741,824 bytes)	
+Installed Drivers	igdumdim64,igd10iumd64.dll,igd10iumd64.dll,igd12umd64,igdumdim32,igd10iumd32,igd10iumd32,igd12umd32	
+Driver Version	21.20.16.4627	
+INF File	oem176.inf (iSKLD_w10_DS section)	
+Color Planes	Not Available	
+Color Table Entries	4294967296	
+Resolution	1366 x 768 x 60 hertz	
+Bits/Pixel	32	
+Memory Address	0xE0000000-0xE0FFFFFF	
+Memory Address	0xD0000000-0xDFFFFFFF	
+I/O Port	0x0000F000-0x0000F03F	
+IRQ Channel	IRQ 4294967289	
+I/O Port	0x000003B0-0x000003BB	
+I/O Port	0x000003C0-0x000003DF	
+Memory Address	0xA0000-0xBFFFF	
+Driver	c:\windows\system32\driverstore\filerepository\ki121294.inf_amd64_a37277b553ef0869\igdkmd64.sys (21.20.16.4627, 10.56 MB (11,070,440 bytes), 24/03/2017 11:57)	
+
+[Infrared]
+
+Item	Value	
+
+[Input]
+
+
+
+[Keyboard]
+
+Item	Value	
+Description	DameWare Virtual Keyboard Emulation for Standard Keyboard	
+Name	Enhanced (101- or 102-key)	
+Layout	00000809	
+PNP Device ID	ROOT\KEYBOARD\0000	
+Number of Function Keys	12	
+Driver	c:\windows\system32\drivers\dwvkbd64.sys (1.0.0.1, 30.00 KB (30,720 bytes), 13/03/2008 12:00)	
+		
+Description	Standard PS/2 Keyboard	
+Name	Enhanced (101- or 102-key)	
+Layout	00000809	
+PNP Device ID	ACPI\DLLK06DB\4&30FC814&0	
+Number of Function Keys	12	
+I/O Port	0x00000060-0x00000060	
+I/O Port	0x00000064-0x00000064	
+IRQ Channel	IRQ 1	
+Driver	c:\windows\system32\drivers\i8042prt.sys (10.0.14393.0, 111.50 KB (114,176 bytes), 16/07/2016 12:41)	
+
+[Pointing Device]
+
+Item	Value	
+Hardware Type	USB Input Device	
+Number of Buttons	0	
+Status	OK	
+PNP Device ID	USB\VID_2188&PID_0AE1\5&19279DAD&0&1	
+Power Management Supported	No	
+Double Click Threshold	Not Available	
+Handedness	Not Available	
+Driver	c:\windows\system32\drivers\hidusb.sys (10.0.14393.82, 37.50 KB (38,400 bytes), 18/05/2017 15:04)	
+		
+Hardware Type	Dell Touchpad	
+Number of Buttons	0	
+Status	OK	
+PNP Device ID	ACPI\DLL06DB\4&30FC814&0	
+Power Management Supported	No	
+Double Click Threshold	Not Available	
+Handedness	Not Available	
+IRQ Channel	IRQ 12	
+Driver	c:\windows\system32\drivers\i8042prt.sys (10.0.14393.0, 111.50 KB (114,176 bytes), 16/07/2016 12:41)	
+
+[Modem]
+
+Item	Value	
+
+[Network]
+
+
+
+[Adapter]
+
+Item	Value	
+Name	[00000000] Microsoft Kernel Debug Network Adapter	
+Adapter Type	Not Available	
+Product Type	Microsoft Kernel Debug Network Adapter	
+Installed	Yes	
+PNP Device ID	ROOT\KDNIC\0000	
+Last Reset	25/10/2017 18:36	
+Index	0	
+Service Name	kdnic	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\kdnic.sys (6.1.0.0, 24.50 KB (25,088 bytes), 16/07/2016 12:41)	
+		
+Name	[00000001] Intel(R) Ethernet Connection I219-LM	
+Adapter Type	Ethernet 802.3	
+Product Type	Intel(R) Ethernet Connection I219-LM	
+Installed	Yes	
+PNP Device ID	PCI\VEN_8086&DEV_156F&SUBSYS_06DB1028&REV_21\3&11583659&0&FE	
+Last Reset	25/10/2017 18:36	
+Index	1	
+Service Name	e1dexpress	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	‪28:F1:0E:27:23:DA‬	
+Memory Address	0xE1200000-0xE121FFFF	
+IRQ Channel	IRQ 4294967291	
+Driver	c:\windows\system32\drivers\e1d65x64.sys (12.13.17.4, 535.00 KB (547,840 bytes), 08/12/2015 08:34)	
+		
+Name	[00000002] Intel(R) Dual Band Wireless-AC 8260	
+Adapter Type	Ethernet 802.3	
+Product Type	Intel(R) Dual Band Wireless-AC 8260	
+Installed	Yes	
+PNP Device ID	PCI\VEN_8086&DEV_24F3&SUBSYS_00508086&REV_3A\E4A471FFFF4292B200	
+Last Reset	25/10/2017 18:36	
+Index	2	
+Service Name	Netwtw04	
+IP Address	10.0.160.120, fe80::310c:67af:e14c:9eef	
+IP Subnet	255.255.255.0, 64	
+Default IP Gateway	10.0.160.254	
+DHCP Enabled	Yes	
+DHCP Server	1.1.1.1	
+DHCP Lease Expires	02/11/2017 12:19	
+DHCP Lease Obtained	01/11/2017 12:19	
+MAC Address	‪E4:A4:71:42:92:B2‬	
+Memory Address	0xE1100000-0xE11FFFFF	
+IRQ Channel	IRQ 4294967287	
+Driver	c:\windows\system32\drivers\netwtw04.sys (19.50.0.11, 7.27 MB (7,626,488 bytes), 09/03/2017 18:19)	
+		
+Name	[00000003] Microsoft Wi-Fi Direct Virtual Adapter	
+Adapter Type	Ethernet 802.3	
+Product Type	Microsoft Wi-Fi Direct Virtual Adapter	
+Installed	Yes	
+PNP Device ID	{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&AB32003&0&11	
+Last Reset	25/10/2017 18:36	
+Index	3	
+Service Name	vwifimp	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	‪E4:A4:71:42:92:B3‬	
+Driver	c:\windows\system32\drivers\vwifimp.sys (10.0.14393.1198, 39.50 KB (40,448 bytes), 18/05/2017 15:03)	
+		
+Name	[00000004] Bluetooth Device (RFCOMM Protocol TDI)	
+Adapter Type	Not Available	
+Product Type	Bluetooth Device (RFCOMM Protocol TDI)	
+Installed	Yes	
+PNP Device ID	BTH\MS_RFCOMM\6&A5FA9DF&0&0	
+Last Reset	25/10/2017 18:36	
+Index	4	
+Service Name	RFCOMM	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\rfcomm.sys (10.0.14393.0, 179.50 KB (183,808 bytes), 16/07/2016 12:41)	
+		
+Name	[00000005] Bluetooth Device (Personal Area Network)	
+Adapter Type	Ethernet 802.3	
+Product Type	Bluetooth Device (Personal Area Network)	
+Installed	Yes	
+PNP Device ID	BTH\MS_BTHPAN\6&A5FA9DF&0&2	
+Last Reset	25/10/2017 18:36	
+Index	5	
+Service Name	BthPan	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	‪E4:A4:71:42:92:B6‬	
+Driver	c:\windows\system32\drivers\bthpan.sys (10.0.14393.1480, 125.50 KB (128,512 bytes), 19/07/2017 13:20)	
+		
+Name	[00000006] Microsoft ISATAP Adapter	
+Adapter Type	Not Available	
+Product Type	Microsoft ISATAP Adapter	
+Installed	Yes	
+PNP Device ID	Not Available	
+Last Reset	25/10/2017 18:36	
+Index	6	
+Service Name	tunnel	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+		
+Name	[00000007] Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64	
+Adapter Type	Not Available	
+Product Type	Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64	
+Installed	Yes	
+PNP Device ID	ROOT\NET\0000	
+Last Reset	25/10/2017 18:36	
+Index	7	
+Service Name	vpnva	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\vpnva64-6.sys (3.1.6019.0, 51.36 KB (52,592 bytes), 17/02/2016 21:54)	
+		
+Name	[00000009] Microsoft Wi-Fi Direct Virtual Adapter	
+Adapter Type	Not Available	
+Product Type	Microsoft Wi-Fi Direct Virtual Adapter	
+Installed	Yes	
+PNP Device ID	Not Available	
+Last Reset	25/10/2017 18:36	
+Index	9	
+Service Name	vwifimp	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	Yes	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+		
+Name	[00000010] WAN Miniport (SSTP)	
+Adapter Type	Not Available	
+Product Type	WAN Miniport (SSTP)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_SSTPMINIPORT	
+Last Reset	25/10/2017 18:36	
+Index	10	
+Service Name	RasSstp	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\rassstp.sys (10.0.14393.0, 76.00 KB (77,824 bytes), 16/07/2016 12:42)	
+		
+Name	[00000011] WAN Miniport (IKEv2)	
+Adapter Type	Not Available	
+Product Type	WAN Miniport (IKEv2)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_AGILEVPNMINIPORT	
+Last Reset	25/10/2017 18:36	
+Index	11	
+Service Name	RasAgileVpn	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\agilevpn.sys (10.0.14393.0, 105.00 KB (107,520 bytes), 16/07/2016 12:42)	
+		
+Name	[00000012] WAN Miniport (L2TP)	
+Adapter Type	Not Available	
+Product Type	WAN Miniport (L2TP)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_L2TPMINIPORT	
+Last Reset	25/10/2017 18:36	
+Index	12	
+Service Name	Rasl2tp	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\rasl2tp.sys (10.0.14393.0, 102.50 KB (104,960 bytes), 16/07/2016 12:42)	
+		
+Name	[00000013] WAN Miniport (PPTP)	
+Adapter Type	Not Available	
+Product Type	WAN Miniport (PPTP)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_PPTPMINIPORT	
+Last Reset	25/10/2017 18:36	
+Index	13	
+Service Name	PptpMiniport	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\raspptp.sys (10.0.14393.0, 94.00 KB (96,256 bytes), 16/07/2016 12:42)	
+		
+Name	[00000014] WAN Miniport (PPPOE)	
+Adapter Type	Not Available	
+Product Type	WAN Miniport (PPPOE)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_PPPOEMINIPORT	
+Last Reset	25/10/2017 18:36	
+Index	14	
+Service Name	RasPppoe	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\raspppoe.sys (10.0.14393.1198, 79.50 KB (81,408 bytes), 18/05/2017 15:03)	
+		
+Name	[00000015] WAN Miniport (IP)	
+Adapter Type	Ethernet 802.3	
+Product Type	WAN Miniport (IP)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_NDISWANIP	
+Last Reset	25/10/2017 18:36	
+Index	15	
+Service Name	NdisWan	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	‪06:3B:20:52:41:53‬	
+Driver	c:\windows\system32\drivers\ndiswan.sys (10.0.14393.0, 185.00 KB (189,440 bytes), 16/07/2016 12:42)	
+		
+Name	[00000016] WAN Miniport (IPv6)	
+Adapter Type	Ethernet 802.3	
+Product Type	WAN Miniport (IPv6)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_NDISWANIPV6	
+Last Reset	25/10/2017 18:36	
+Index	16	
+Service Name	NdisWan	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	‪06:C4:20:52:41:53‬	
+Driver	c:\windows\system32\drivers\ndiswan.sys (10.0.14393.0, 185.00 KB (189,440 bytes), 16/07/2016 12:42)	
+		
+Name	[00000017] WAN Miniport (Network Monitor)	
+Adapter Type	Ethernet 802.3	
+Product Type	WAN Miniport (Network Monitor)	
+Installed	Yes	
+PNP Device ID	SWD\MSRRAS\MS_NDISWANBH	
+Last Reset	25/10/2017 18:36	
+Index	17	
+Service Name	NdisWan	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	‪04:80:20:52:41:53‬	
+Driver	c:\windows\system32\drivers\ndiswan.sys (10.0.14393.0, 185.00 KB (189,440 bytes), 16/07/2016 12:42)	
+		
+Name	[00000018] Microsoft Teredo Tunneling Adapter	
+Adapter Type	Tunnel	
+Product Type	Microsoft Teredo Tunneling Adapter	
+Installed	Yes	
+PNP Device ID	SWD\IP_TUNNEL_VBUS\TEREDO_TUNNEL_DEVICE	
+Last Reset	25/10/2017 18:36	
+Index	18	
+Service Name	tunnel	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\tunnel.sys (10.0.14393.0, 154.50 KB (158,208 bytes), 16/07/2016 12:42)	
+		
+Name	[00000019] Microsoft ISATAP Adapter	
+Adapter Type	Tunnel	
+Product Type	Microsoft ISATAP Adapter	
+Installed	Yes	
+PNP Device ID	SWD\IP_TUNNEL_VBUS\ISATAP_2	
+Last Reset	25/10/2017 18:36	
+Index	19	
+Service Name	tunnel	
+IP Address	Not Available	
+IP Subnet	Not Available	
+Default IP Gateway	Not Available	
+DHCP Enabled	No	
+DHCP Server	Not Available	
+DHCP Lease Expires	Not Available	
+DHCP Lease Obtained	Not Available	
+MAC Address	Not Available	
+Driver	c:\windows\system32\drivers\tunnel.sys (10.0.14393.0, 154.50 KB (158,208 bytes), 16/07/2016 12:42)	
+
+[Protocol]
+
+Item	Value	
+Name	Hyper-V RAW	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	36 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	36 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	MSAFD Tcpip [TCP/IP]	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	16 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	MSAFD Tcpip [UDP/IP]	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	16 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+		
+Name	MSAFD Tcpip [TCP/IPv6]	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	28 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	MSAFD Tcpip [UDP/IPv6]	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	28 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+		
+Name	MSAFD Irda [IrDA]	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	32 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	8 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	MSAFD RfComm [Bluetooth]	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	30 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	30 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	No	
+Supports Expedited Data	No	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	RSVP TCPv6 Service Provider	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	28 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	RSVP TCP Service Provider	
+Connectionless Service	No	
+Guarantees Delivery	Yes	
+Guarantees Sequencing	Yes	
+Maximum Address Size	16 bytes	
+Maximum Message Size	0 bytes	
+Message Oriented	No	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	No	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	Yes	
+Supports Graceful Closing	Yes	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	No	
+		
+Name	RSVP UDPv6 Service Provider	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	28 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	28 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+		
+Name	RSVP UDP Service Provider	
+Connectionless Service	Yes	
+Guarantees Delivery	No	
+Guarantees Sequencing	No	
+Maximum Address Size	16 bytes	
+Maximum Message Size	63.99 KB (65,527 bytes)	
+Message Oriented	Yes	
+Minimum Address Size	16 bytes	
+Pseudo Stream Oriented	No	
+Supports Broadcasting	Yes	
+Supports Connect Data	No	
+Supports Disconnect Data	No	
+Supports Encryption	Yes	
+Supports Expedited Data	No	
+Supports Graceful Closing	No	
+Supports Guaranteed Bandwidth	No	
+Supports Multicasting	Yes	
+
+[WinSock]
+
+Item	Value	
+File	c:\windows\syswow64\wsock32.dll	
+Size	16.00 KB (16,384 bytes)	
+Version	10.0.14393.0	
+		
+File	c:\windows\system32\wsock32.dll	
+Size	18.00 KB (18,432 bytes)	
+Version	10.0.14393.0	
+
+[Ports]
+
+
+
+[Serial]
+
+Item	Value	
+Name	Intel(R) Active Management Technology - SOL (COM3)	
+Status	OK	
+PNP Device ID	PCI\VEN_8086&DEV_9D3D&SUBSYS_06DB1028&REV_21\3&11583659&0&B3	
+Maximum Input Buffer Size	0	
+Maximum Output Buffer Size	No	
+Settable Baud Rate	Yes	
+Settable Data Bits	Yes	
+Settable Flow Control	Yes	
+Settable Parity	Yes	
+Settable Parity Check	Yes	
+Settable Stop Bits	Yes	
+Settable RLSD	Yes	
+Supports RLSD	Yes	
+Supports 16 Bit Mode	No	
+Supports Special Characters	No	
+Baud Rate	9600	
+Bits/Byte	8	
+Stop Bits	1	
+Parity	None	
+Busy	No	
+Abort Read/Write on Error	No	
+Binary Mode Enabled	Yes	
+Continue XMit on XOff	No	
+CTS Outflow Control	No	
+Discard NULL Bytes	No	
+DSR Outflow Control	0	
+DSR Sensitivity	0	
+DTR Flow Control Type	Enable	
+EOF Character	0	
+Error Replace Character	0	
+Error Replacement Enabled	No	
+Event Character	0	
+Parity Check Enabled	No	
+RTS Flow Control Type	Enable	
+XOff Character	19	
+XOffXMit Threshold	512	
+XOn Character	17	
+XOnXMit Threshold	2048	
+XOnXOff InFlow Control	0	
+XOnXOff OutFlow Control	0	
+I/O Port	0x0000F0A0-0x0000F0A7	
+Memory Address	0xE1255000-0xE1255FFF	
+IRQ Channel	IRQ 19	
+Driver	c:\windows\system32\drivers\serial.sys (10.0.14393.0, 82.00 KB (83,968 bytes), 16/07/2016 12:41)	
+
+[Parallel]
+
+Item	Value	
+Name	LPT1	
+PNP Device ID	ACPI\PNP0401\5	
+I/O Port	0x00000378-0x0000037B	
+Driver	c:\windows\system32\drivers\parport.sys (10.0.14393.0, 94.50 KB (96,768 bytes), 16/07/2016 12:41)	
+
+[Storage]
+
+
+
+[Drives]
+
+Item	Value	
+Drive	C:	
+Description	Local Fixed Disk	
+Compressed	No	
+File System	NTFS	
+Size	117.71 GB (126,390,104,064 bytes)	
+Free Space	58.84 GB (63,176,560,640 bytes)	
+Volume Name	Windows	
+Volume Serial Number	DC582537	
+
+[Disks]
+
+Item	Value	
+Description	Disk drive	
+Manufacturer	(Standard disk drives)	
+Model	LITEON CV3-8D128-11 SATA 128GB	
+Bytes/Sector	512	
+Media Loaded	Yes	
+Media Type	Fixed hard disk	
+Partitions	3	
+SCSI Bus	2	
+SCSI Logical Unit	0	
+SCSI Port	0	
+SCSI Target ID	0	
+Sectors/Track	63	
+Size	119.24 GB (128,034,708,480 bytes)	
+Total Cylinders	15,566	
+Total Sectors	250,067,790	
+Total Tracks	3,969,330	
+Tracks/Cylinder	255	
+Partition	Disk #0, Partition #0	
+Partition Size	350.00 MB (367,001,600 bytes)	
+Partition Starting Offset	1,048,576 bytes	
+Partition	Disk #0, Partition #1	
+Partition Size	117.71 GB (126,390,108,160 bytes)	
+Partition Starting Offset	368,050,176 bytes	
+Partition	Disk #0, Partition #2	
+Partition Size	12.00 MB (12,582,912 bytes)	
+Partition Starting Offset	126,758,158,336 bytes	
+
+[SCSI]
+
+Item	Value	
+Name	Microsoft Storage Spaces Controller	
+Manufacturer	Microsoft	
+Status	OK	
+PNP Device ID	ROOT\SPACEPORT\0000	
+Driver	c:\windows\system32\drivers\spaceport.sys (10.0.14393.1613, 544.34 KB (557,408 bytes), 06/09/2017 13:10)	
+		
+Name	Intel Chipset SATA RAID Controller	
+Manufacturer	Intel Corporation	
+Status	OK	
+PNP Device ID	PCI\VEN_8086&DEV_282A&SUBSYS_06DB1028&REV_21\3&11583659&0&B8	
+Memory Address	0xE1250000-0xE1251FFF	
+Memory Address	0xE1254000-0xE12540FF	
+I/O Port	0x0000F090-0x0000F097	
+I/O Port	0x0000F080-0x0000F083	
+I/O Port	0x0000F060-0x0000F07F	
+Memory Address	0xE1253000-0xE12537FF	
+IRQ Channel	IRQ 4294967292	
+Driver	c:\windows\system32\drivers\iastora.sys (14.5.2.1088, 1.39 MB (1,455,552 bytes), 08/12/2015 08:35)	
+
+[IDE]
+
+Item	Value	
+
+[Printing]
+
+Name	Driver	Port Name	Server Name	
+Send To OneNote 2016	Send to Microsoft OneNote 16 Driver	nul:	Not Available	
+Microsoft XPS Document Writer	Microsoft XPS Document Writer v4	PORTPROMPT:	Not Available	
+Microsoft Print to PDF	Microsoft Print To PDF	PORTPROMPT:	Not Available	
+Fax	Microsoft Shared Fax Driver	SHRFAX:	Not Available	
+
+[Problem Devices]
+
+Device	PNP Device ID	Error Code	
+Microsoft Usbccid Smartcard Reader (WUDF)	USB\VID_0A5C&PID_5834&MI_02\6&81A7E03&0&0002	This device is disabled.	
+Microsoft Usbccid Smartcard Reader (WUDF)	USB\VID_0A5C&PID_5834&MI_01\6&81A7E03&0&0001	This device is disabled.	
+Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64	ROOT\NET\0000	This device is disabled.	
+
+[USB]
+
+Device	PNP Device ID	
+Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)	PCI\VEN_8086&DEV_9D2F&SUBSYS_06DB1028&REV_21\3&11583659&0&A0	
