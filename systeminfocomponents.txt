@@ -1,4 +1,4 @@
-﻿System Information report written at: 11/01/17 13:33:35
+﻿System Information report written at: 11/02/17 12:37:14
 System Name: RWG16169
 [Components]
 
@@ -11,20 +11,20 @@ System Name: RWG16169
 [Audio Codecs]
 
 CODEC	Manufacturer	Description	Status	File	Version	Size	Creation Date	
-c:\windows\system32\msg711.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSG711.ACM	10.0.14393.0	24.76 KB (25,352 bytes)	16/07/2016 12:42	
 c:\windows\system32\l3codeca.acm	Fraunhofer Institut Integrierte Schaltungen IIS	Fraunhofer IIS MPEG Layer-3 Codec	OK	C:\WINDOWS\system32\L3CODECA.ACM	1.9.0.401	85.00 KB (87,040 bytes)	16/07/2016 12:42	
-c:\windows\system32\msadp32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSADP32.ACM	10.0.14393.0	33.83 KB (34,640 bytes)	16/07/2016 12:42	
+c:\windows\system32\msg711.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSG711.ACM	10.0.14393.0	24.76 KB (25,352 bytes)	16/07/2016 12:42	
 c:\windows\system32\imaadp32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\IMAADP32.ACM	10.0.14393.0	34.86 KB (35,696 bytes)	16/07/2016 12:42	
+c:\windows\system32\msadp32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSADP32.ACM	10.0.14393.0	33.83 KB (34,640 bytes)	16/07/2016 12:42	
 c:\windows\system32\msgsm32.acm	Microsoft Corporation		OK	C:\WINDOWS\system32\MSGSM32.ACM	10.0.14393.0	41.93 KB (42,936 bytes)	16/07/2016 12:42	
 
 [Video Codecs]
 
 CODEC	Manufacturer	Description	Status	File	Version	Size	Creation Date	
 c:\windows\system32\iyuv_32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\IYUV_32.DLL	10.0.14393.0	53.00 KB (54,272 bytes)	16/07/2016 12:42	
-c:\windows\system32\tsbyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\TSBYUV.DLL	10.0.14393.0	16.50 KB (16,896 bytes)	16/07/2016 12:42	
-c:\windows\system32\msyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSYUV.DLL	10.0.14393.0	27.00 KB (27,648 bytes)	16/07/2016 12:42	
 c:\windows\system32\msrle32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSRLE32.DLL	10.0.14393.0	17.50 KB (17,920 bytes)	16/07/2016 12:42	
 c:\windows\system32\msvidc32.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSVIDC32.DLL	10.0.14393.0	38.00 KB (38,912 bytes)	16/07/2016 12:42	
+c:\windows\system32\msyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\MSYUV.DLL	10.0.14393.0	27.00 KB (27,648 bytes)	16/07/2016 12:42	
+c:\windows\system32\tsbyuv.dll	Microsoft Corporation		OK	C:\WINDOWS\system32\TSBYUV.DLL	10.0.14393.0	16.50 KB (16,896 bytes)	16/07/2016 12:42	
 
 [CD-ROM]
 
@@ -114,15 +114,6 @@ Driver	c:\windows\system32\drivers\i8042prt.sys (10.0.14393.0, 111.50 KB (114,17
 [Pointing Device]
 
 Item	Value	
-Hardware Type	USB Input Device	
-Number of Buttons	0	
-Status	OK	
-PNP Device ID	USB\VID_2188&PID_0AE1\5&19279DAD&0&1	
-Power Management Supported	No	
-Double Click Threshold	Not Available	
-Handedness	Not Available	
-Driver	c:\windows\system32\drivers\hidusb.sys (10.0.14393.82, 37.50 KB (38,400 bytes), 18/05/2017 15:04)	
-		
 Hardware Type	Dell Touchpad	
 Number of Buttons	0	
 Status	OK	
@@ -149,7 +140,7 @@ Adapter Type	Not Available
 Product Type	Microsoft Kernel Debug Network Adapter	
 Installed	Yes	
 PNP Device ID	ROOT\KDNIC\0000	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	0	
 Service Name	kdnic	
 IP Address	Not Available	
@@ -167,7 +158,7 @@ Adapter Type	Ethernet 802.3
 Product Type	Intel(R) Ethernet Connection I219-LM	
 Installed	Yes	
 PNP Device ID	PCI\VEN_8086&DEV_156F&SUBSYS_06DB1028&REV_21\3&11583659&0&FE	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	1	
 Service Name	e1dexpress	
 IP Address	Not Available	
@@ -187,7 +178,7 @@ Adapter Type	Ethernet 802.3
 Product Type	Intel(R) Dual Band Wireless-AC 8260	
 Installed	Yes	
 PNP Device ID	PCI\VEN_8086&DEV_24F3&SUBSYS_00508086&REV_3A\E4A471FFFF4292B200	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	2	
 Service Name	Netwtw04	
 IP Address	10.0.160.120, fe80::310c:67af:e14c:9eef	
@@ -195,8 +186,8 @@ IP Subnet	255.255.255.0, 64
 Default IP Gateway	10.0.160.254	
 DHCP Enabled	Yes	
 DHCP Server	1.1.1.1	
-DHCP Lease Expires	02/11/2017 12:19	
-DHCP Lease Obtained	01/11/2017 12:19	
+DHCP Lease Expires	03/11/2017 12:31	
+DHCP Lease Obtained	02/11/2017 12:31	
 MAC Address	‪E4:A4:71:42:92:B2‬	
 Memory Address	0xE1100000-0xE11FFFFF	
 IRQ Channel	IRQ 4294967287	
@@ -207,7 +198,7 @@ Adapter Type	Ethernet 802.3
 Product Type	Microsoft Wi-Fi Direct Virtual Adapter	
 Installed	Yes	
 PNP Device ID	{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&AB32003&0&11	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	3	
 Service Name	vwifimp	
 IP Address	Not Available	
@@ -225,7 +216,7 @@ Adapter Type	Not Available
 Product Type	Bluetooth Device (RFCOMM Protocol TDI)	
 Installed	Yes	
 PNP Device ID	BTH\MS_RFCOMM\6&A5FA9DF&0&0	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	4	
 Service Name	RFCOMM	
 IP Address	Not Available	
@@ -243,7 +234,7 @@ Adapter Type	Ethernet 802.3
 Product Type	Bluetooth Device (Personal Area Network)	
 Installed	Yes	
 PNP Device ID	BTH\MS_BTHPAN\6&A5FA9DF&0&2	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	5	
 Service Name	BthPan	
 IP Address	Not Available	
@@ -261,7 +252,7 @@ Adapter Type	Not Available
 Product Type	Microsoft ISATAP Adapter	
 Installed	Yes	
 PNP Device ID	Not Available	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	6	
 Service Name	tunnel	
 IP Address	Not Available	
@@ -278,7 +269,7 @@ Adapter Type	Not Available
 Product Type	Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64	
 Installed	Yes	
 PNP Device ID	ROOT\NET\0000	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	7	
 Service Name	vpnva	
 IP Address	Not Available	
@@ -296,7 +287,7 @@ Adapter Type	Not Available
 Product Type	Microsoft Wi-Fi Direct Virtual Adapter	
 Installed	Yes	
 PNP Device ID	Not Available	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	9	
 Service Name	vwifimp	
 IP Address	Not Available	
@@ -312,8 +303,8 @@ Name	[00000010] WAN Miniport (SSTP)
 Adapter Type	Not Available	
 Product Type	WAN Miniport (SSTP)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_SSTPMINIPORT	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	10	
 Service Name	RasSstp	
 IP Address	Not Available	
@@ -324,14 +315,13 @@ DHCP Server	Not Available
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
 MAC Address	Not Available	
-Driver	c:\windows\system32\drivers\rassstp.sys (10.0.14393.0, 76.00 KB (77,824 bytes), 16/07/2016 12:42)	
 		
 Name	[00000011] WAN Miniport (IKEv2)	
 Adapter Type	Not Available	
 Product Type	WAN Miniport (IKEv2)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_AGILEVPNMINIPORT	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	11	
 Service Name	RasAgileVpn	
 IP Address	Not Available	
@@ -342,14 +332,13 @@ DHCP Server	Not Available
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
 MAC Address	Not Available	
-Driver	c:\windows\system32\drivers\agilevpn.sys (10.0.14393.0, 105.00 KB (107,520 bytes), 16/07/2016 12:42)	
 		
 Name	[00000012] WAN Miniport (L2TP)	
 Adapter Type	Not Available	
 Product Type	WAN Miniport (L2TP)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_L2TPMINIPORT	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	12	
 Service Name	Rasl2tp	
 IP Address	Not Available	
@@ -360,14 +349,13 @@ DHCP Server	Not Available
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
 MAC Address	Not Available	
-Driver	c:\windows\system32\drivers\rasl2tp.sys (10.0.14393.0, 102.50 KB (104,960 bytes), 16/07/2016 12:42)	
 		
 Name	[00000013] WAN Miniport (PPTP)	
 Adapter Type	Not Available	
 Product Type	WAN Miniport (PPTP)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_PPTPMINIPORT	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	13	
 Service Name	PptpMiniport	
 IP Address	Not Available	
@@ -378,14 +366,13 @@ DHCP Server	Not Available
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
 MAC Address	Not Available	
-Driver	c:\windows\system32\drivers\raspptp.sys (10.0.14393.0, 94.00 KB (96,256 bytes), 16/07/2016 12:42)	
 		
 Name	[00000014] WAN Miniport (PPPOE)	
 Adapter Type	Not Available	
 Product Type	WAN Miniport (PPPOE)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_PPPOEMINIPORT	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	14	
 Service Name	RasPppoe	
 IP Address	Not Available	
@@ -396,14 +383,13 @@ DHCP Server	Not Available
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
 MAC Address	Not Available	
-Driver	c:\windows\system32\drivers\raspppoe.sys (10.0.14393.1198, 79.50 KB (81,408 bytes), 18/05/2017 15:03)	
 		
 Name	[00000015] WAN Miniport (IP)	
-Adapter Type	Ethernet 802.3	
+Adapter Type	Not Available	
 Product Type	WAN Miniport (IP)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_NDISWANIP	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	15	
 Service Name	NdisWan	
 IP Address	Not Available	
@@ -413,15 +399,14 @@ DHCP Enabled	No
 DHCP Server	Not Available	
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
-MAC Address	‪06:3B:20:52:41:53‬	
-Driver	c:\windows\system32\drivers\ndiswan.sys (10.0.14393.0, 185.00 KB (189,440 bytes), 16/07/2016 12:42)	
+MAC Address	Not Available	
 		
 Name	[00000016] WAN Miniport (IPv6)	
-Adapter Type	Ethernet 802.3	
+Adapter Type	Not Available	
 Product Type	WAN Miniport (IPv6)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_NDISWANIPV6	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	16	
 Service Name	NdisWan	
 IP Address	Not Available	
@@ -431,15 +416,14 @@ DHCP Enabled	No
 DHCP Server	Not Available	
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
-MAC Address	‪06:C4:20:52:41:53‬	
-Driver	c:\windows\system32\drivers\ndiswan.sys (10.0.14393.0, 185.00 KB (189,440 bytes), 16/07/2016 12:42)	
+MAC Address	Not Available	
 		
 Name	[00000017] WAN Miniport (Network Monitor)	
-Adapter Type	Ethernet 802.3	
+Adapter Type	Not Available	
 Product Type	WAN Miniport (Network Monitor)	
 Installed	Yes	
-PNP Device ID	SWD\MSRRAS\MS_NDISWANBH	
-Last Reset	25/10/2017 18:36	
+PNP Device ID	Not Available	
+Last Reset	02/11/2017 12:09	
 Index	17	
 Service Name	NdisWan	
 IP Address	Not Available	
@@ -449,15 +433,14 @@ DHCP Enabled	No
 DHCP Server	Not Available	
 DHCP Lease Expires	Not Available	
 DHCP Lease Obtained	Not Available	
-MAC Address	‪04:80:20:52:41:53‬	
-Driver	c:\windows\system32\drivers\ndiswan.sys (10.0.14393.0, 185.00 KB (189,440 bytes), 16/07/2016 12:42)	
+MAC Address	Not Available	
 		
 Name	[00000018] Microsoft Teredo Tunneling Adapter	
 Adapter Type	Tunnel	
 Product Type	Microsoft Teredo Tunneling Adapter	
 Installed	Yes	
 PNP Device ID	SWD\IP_TUNNEL_VBUS\TEREDO_TUNNEL_DEVICE	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	18	
 Service Name	tunnel	
 IP Address	Not Available	
@@ -475,7 +458,7 @@ Adapter Type	Tunnel
 Product Type	Microsoft ISATAP Adapter	
 Installed	Yes	
 PNP Device ID	SWD\IP_TUNNEL_VBUS\ISATAP_2	
-Last Reset	25/10/2017 18:36	
+Last Reset	02/11/2017 12:09	
 Index	19	
 Service Name	tunnel	
 IP Address	Not Available	
@@ -772,7 +755,7 @@ Description	Local Fixed Disk
 Compressed	No	
 File System	NTFS	
 Size	117.71 GB (126,390,104,064 bytes)	
-Free Space	58.84 GB (63,176,560,640 bytes)	
+Free Space	58.84 GB (63,180,816,384 bytes)	
 Volume Name	Windows	
 Volume Serial Number	DC582537	
 

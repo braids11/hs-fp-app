@@ -1,6 +1,6 @@
 def process_user_query(query_string):
     #with open(r'systeminfocomponents.txt', 'r', encoding='utf-8') as input_file:
-    #    query_string = input_file.read()
+        #query_string = input_file.read()
     d = {}
     current_year = 2017
     blocks = query_string.split('\n\n')
@@ -12,9 +12,9 @@ def process_user_query(query_string):
                 device = line.split('\t')[1]
             if line.startswith('Driver	') and device != '':
                 driver = line.split(' ')[-2]
-#                   year = int(driver.split('/')[-1] + driver.split('/')[-2])
+#                    year = int(driver.split('/')[-1] + driver.split('/')[-2])
                 year = int(driver.split('/')[-1])
-        if device != '' and driver != '':
+            if device != '' and driver != '':
                 d[device]=year
     for device, driver in d.items():
         delta = current_year - driver
@@ -25,6 +25,8 @@ def process_user_query(query_string):
     return(d)
 
 #print(process_user_query("hello"))
+
+
 #
 #
 #
